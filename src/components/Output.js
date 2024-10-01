@@ -1,5 +1,5 @@
 import React from "react";
-//test
+//test 2
 const Output = (props) => {
   return <p>{props.children}</p>;
 };
